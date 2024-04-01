@@ -18,4 +18,4 @@ circuit breaker
 
 ## Diagrama de Arquitectura
 
-Apuesta-total.png
+/Apuesta-total.png
