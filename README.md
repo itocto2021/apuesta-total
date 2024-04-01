@@ -17,4 +17,5 @@ circuit breaker
 -Comentarios y documentación
 
 ## Diagrama de Arquitectura
-https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G18av3tc-GEj1shVKHWIch0N1DvEJlHLOf
+
+Apuesta-total.png
