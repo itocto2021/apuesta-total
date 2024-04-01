@@ -1,0 +1,59 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OrquestadorApplication",
+            "request": "launch",
+            "mainClass": "com.apuestatotal.orquestador.OrquestadorApplication",
+            "projectName": "orquestador"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "com.apuestatotal.busqueda.reserva.service.Application",
+            "projectName": "busqueda.reserva.service",
+            "env": {
+                "spring.profiles.active": "dev"
+            }
+        },
+        {
+            "type": "java",
+            "name": "Application(1)",
+            "request": "launch",
+            "mainClass": "com.apuestatotal.emision.boletos.service.Application",
+            "projectName": "emision.boletos.service"
+        },
+        {
+            "type": "java",
+            "name": "Application(2)",
+            "request": "launch",
+            "mainClass": "com.apuestatotal.equipaje.service.Application",
+            "projectName": "equipaje.service"
+        },
+        {
+            "type": "java",
+            "name": "Application(3)",
+            "request": "launch",
+            "mainClass": "com.apuestatotal.pago.service.Application",
+            "projectName": "pago.service"
+        },
+        {
+            "type": "java",
+            "name": "Application(4)",
+            "request": "launch",
+            "mainClass": "com.apuestatotal.seleccion.asientos.service.Application",
+            "projectName": "seleccion.asientos.service"
+        }
+    ]
+}
