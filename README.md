@@ -19,4 +19,4 @@ circuit breaker
 
 ## Diagrama de Arquitectura
 
-[Apuesta-total.png](https://github.com/itocto2021/apuesta-total)
+[[Apuesta-total.png](https://github.com/itocto2021/apuesta-total)](https://github.com/itocto2021/apuesta-total/blob/development/Apuesta-total.png)
