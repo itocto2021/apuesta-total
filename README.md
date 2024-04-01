@@ -10,6 +10,7 @@ circuit breaker
   - Claridad
   - Simplicidad
   - Don't Repeat Yourself
+
 #Solid
   - Principio de Responsabilidad Única
   - Principio de Inversión de Dependencias
